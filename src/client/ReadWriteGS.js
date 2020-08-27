@@ -1,6 +1,3 @@
-//let url = "https://script.google.com/macros/s/AKfycbxdmdMcz0XNKBxPEtmH0Tgm7tpnqvNqg8aLV4SpwQOTyDhdhKY/exec";
-//let CONFIG = require("./config.json");
-
 function readGS(){    
     //https://javascript.info/fetch - to understand fetch, promise, json better
     let promise = fetch(urlScript)
